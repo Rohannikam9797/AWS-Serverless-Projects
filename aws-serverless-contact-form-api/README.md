@@ -1,7 +1,5 @@
 # Serverless Contact Form API
 
-> **AWS • ap-south-1 (Mumbai) • AWS SAA-003 + CLF-02**
-
 ## 📌 Overview
 
 A fully serverless contact form backend built on AWS.  
@@ -175,5 +173,5 @@ Part1-Serverless-Contact-Form/
 
   Rohan Nikam
 - GitHub: [@rohan-nikam9797](https://github.com/rohan-nikam9797)
-- Certification Track: AWS SAA-003 + CLF-02
+
 
