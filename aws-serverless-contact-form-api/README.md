@@ -168,9 +168,11 @@ Part1-Serverless-Contact-Form/
 
 ---
 
-👤 Author
+## 👨‍💻 Author
 
-  Rohan Nikam
-- GitHub: [Rohannikam9797](https://github.com/Rohannikam9797)
+**Rohan Nikam**
+Aspiring Cloud & DevOps Engineer | AWS Enthusiast
 
+🔗 GitHub: https://github.com/Rohannikam9797
 
+Passionate about building scalable cloud solutions using **AWS Serverless Architecture, Automation, and DevOps practices**.
