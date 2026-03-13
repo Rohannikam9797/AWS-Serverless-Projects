@@ -165,7 +165,6 @@ Part1-Serverless-Contact-Form/
 - [x] API deployed to `prod` stage ✅
 - [x] CloudWatch log group `/aws/lambda/ContactFormHandler` active ✅
 - [x] End-to-end curl test passed — 7 records saved in DynamoDB ✅
-- [x] **Part 1 Complete** 🎉
 
 ---
 
